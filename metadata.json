@@ -1,0 +1,6 @@
+{
+  "name": "Matex ai",
+  "description": "A compassionate, Socratic AI math tutor that patienty guides you step-by-step through algebraic and calculus problems using uploaded images and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
